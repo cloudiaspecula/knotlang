@@ -63,9 +63,9 @@
 
 ### КНОТЛАНГ
 > *Denis: K., oknu nai.*
-> *K.: Denis, okna nai, wulte nai-zhe.*
+> *K.: Denis, okna nai, welt nai-zhe.*
 > *Denis: K., kni multu nai.*
-> *K.: Denis, multu nai, k-Sent nai-zhe.*
+> *K.: Denis, multu nai, k-sent nai-zhe.*
 
 ### Перевод
 > Денис: К., окно-держится.
@@ -77,13 +77,13 @@
 | Элемент | Что демонстрирует |
 |---|---|
 | `oknu` / `okna` | смена слоя: держится → отдаётся (тот же узел, другое положение) |
-| `wulte` | `wul` в -e- (откликается); историческая форма — подтвердить v0.57 |
+| `welt` | `wul` в -e- (откликается); полный ряд `wilt/wult/walt/welt` |
 | `kni multu` | приказ + агапа; `kni-multu` = «собери и умножь» = «собери агапу» |
-| `k-Sent` | позиция сборки `k-` (в центре) + `sen` в -e-; `Sent` — историческая форма |
+| `k-sent` | позиция сборки `k-` (в центре) + `sen` в -e-; полный ряд `sint/sunt/sant/sent` |
 
 ### Проверка благозвучия
-* `Okna wulte` — стык `a-w` ✓
-* `k-Sent` — стык `k-s`: два согласных ✓
+* `Okna welt` — стык `a-w` ✓
+* `k-sent` — стык `k-s`: два согласных ✓
 * `nai-zhe` — стык `i-z` ✓
 
 **Итог:** благозвучно.
